@@ -1,0 +1,4 @@
+envcore-rs
+websockets
+keyboard
+colorama
